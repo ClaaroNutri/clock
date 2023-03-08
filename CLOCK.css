@@ -23,4 +23,9 @@ body {background-color: #30323b;
 
 
 }
+@media (max-width:400px) {
 
+    .clock {width: 40%;
+        left:30%
+    }
+}
